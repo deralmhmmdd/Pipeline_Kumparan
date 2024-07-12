@@ -1,0 +1,6 @@
+article_id,title,content,publish_date,deleted_at
+1,Article 1,Content of article 1,2016-01-01,
+2,Article 2,Content of article 2,2016-02-01,
+3,Article 3,Content of article 3,2016-03-01,2017-01-01
+4,Article 4,Content of article 4,2016-04-01,
+5,Article 5,Content of article 5,2016-05-01,
